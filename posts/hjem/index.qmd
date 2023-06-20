@@ -1,0 +1,54 @@
+---
+title: "Hjem"
+subtitle: Song by Sanne Salomonsen 
+author: "Abdullah Zeeshan"
+date: "2023-06-18"
+categories: [personal]
+reading-time: True
+toc: true
+fig-align: center
+fig-cap-location: bottom
+image: home.jpg
+---
+
+---
+
+{{< video https://www.youtube.com/watch?v=0ydY-D0105c >}}
+
+---
+
+**Translated Lyrics:**
+
+> *"Nothing happens without a reason"
+Someone told me once
+back when I was young.
+I have tried everything
+and every time I fell
+I got back on my feet
+and I can show you scars
+on my body and on my mind
+I have tried everything
+I have tried everything.*
+>
+> *Like a verse that found its song
+I'm standing here
+and though the road—it has been long
+I have come home
+I have come home*
+>
+> *Nothing tempts me to go back
+out of this moment, this hour, this day,
+'cause I have landed here.
+And I am exactly where I need to be—about to find out
+what kind of person I am.
+I am not afraid of failing any more
+If you live, that's just what happens.*
+>
+> *Like a verse that found its song
+I'm standing here
+and though the road—it has been long
+I have come home.*
+
+[*Source*](https://lyricstranslate.com/en/hjem-home.html)
+
+
