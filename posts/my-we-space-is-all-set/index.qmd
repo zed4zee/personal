@@ -1,0 +1,24 @@
+---
+title: "My Personal Web Space Is All Set"
+subtitle: An update 
+description: Get back to this later 
+author: "Abdullah Zeeshan"
+date: "2023-06-17"
+categories: [announcement]
+reading-time: True
+toc: true
+fig-align: center
+fig-cap-location: bottom
+date-modified: "2023-06-20"
+---
+
+I am all set with creating my [personal web space](https://zed4zee.github.io/personal/posts/welcome/) for documenting important areas of my life. 
+
+Categorizing things was a great strategy. It helped me inspect every area closely. 
+
+I created new pages for coding and Linux. 
+
+Things to do later:
+
+- Examine the YAML files and metadata (need to keep it coherent)
+- Separate the listings on homepage and add a title for each category
